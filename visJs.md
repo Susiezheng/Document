@@ -2,12 +2,12 @@
 
 ## Install
 
-Install via npm:
+Install vis npm:
 
 ```bash
 $ npm install vis
 ```
-Install via bower:
+Install vis bower:
 
 ```bash
 $ bower install vis

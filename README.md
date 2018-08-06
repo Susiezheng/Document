@@ -5,3 +5,4 @@
 - [dva 框架](dva.md)
 - [vis.js 的使用](visJs.md)
 - [使用 yeoman 搭建脚手架](yeoman.md)
+- [引用 mobx 进行状态管理](mobx.md)
