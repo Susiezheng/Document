@@ -38,7 +38,7 @@ class APPList extends Component {
 }
 ```
 
-##状态的分别管理
+## 状态的管理
 
 ```js
 import { observable, action } from 'mobx';
