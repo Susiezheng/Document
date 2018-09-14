@@ -18,8 +18,6 @@ $ bower install vis
 
 [https://github.com/almende/vis.git](https://github.com/almende/vis.git).  
 <br />
-### 预览
-![演示结果](http://atlassian.yfb.sunline.cn:8090/download/attachments/13639645/2.gif?version=1&amp;modificationDate=1522823456000&amp;api=v2)
 
 ## Example
 
