@@ -7,3 +7,4 @@
 - [使用 yeoman 搭建脚手架](yeoman.md)
 - [引用 mobx 进行状态管理](mobx.md)
 - [echarts点击事件，翻转下钻功能](echarts.md)
+- [ts+vuex的引用](vuex.md)
