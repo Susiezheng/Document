@@ -111,7 +111,7 @@ import { mapMutations } from 'vuex'
     ...mapMutations([ //vuex的dispatch
         'SET_TITLE_NAME'
     ])
-})
+}) 
 
 this.$store.commit('SET_TITLE_NAME','ssss');
 ```
