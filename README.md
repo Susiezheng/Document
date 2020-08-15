@@ -9,3 +9,4 @@
 - [echarts点击事件，翻转下钻功能](echarts.md)
 - [ts+vuex的引用](vuex.md)
 - [uniapp第三方登录和支付](uniapp.md)
+- [Object.defineProperty实现双向绑定](defineProperty.md)
