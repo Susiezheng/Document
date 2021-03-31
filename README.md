@@ -12,5 +12,7 @@
 - [Object.defineProperty实现双向绑定](defineProperty.md)
 - [统一封装请求后端插件](api.md)
 - [electron构建跨平台的桌面应用程序](electron.md)
+- [封装pc端图片预览组件](pc-image-preview.md)
+
 
 
